@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tn.dabordanimaux.app",
+      "sha256_cert_fingerprints": [
+        "87:B4:22:61:3C:64:A1:AD:38:3A:D1:AF:56:5D:43:69:11:64:C0:92:E6:EB:3B:A6:A8:BC:63:6E:4D:6E:15:A8"
+      ]
+    }
+  }
+]
